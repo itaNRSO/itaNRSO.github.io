@@ -1,0 +1,20 @@
+{
+    "name": "STG",
+    "short_name": "STG",
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "スマホでできる弾幕シューティングゲームです。",
+    "icons": [
+        {
+            "src": "https://itaNRSO.github.io/icon 710x.png",
+            "sizes": "710x710",
+            "type": "image/png"
+        }
+    ]
+         
+ }
